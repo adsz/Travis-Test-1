@@ -1,4 +1,4 @@
 def dasti(tekst):
     return 'Alo '+ tekst
 
-print (dasti('Adam'))
+print (dasti('Adam to pan'))
